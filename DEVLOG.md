@@ -28,3 +28,23 @@
 
 \- First project intending to learn about GNC, Hardware, C, C++, GitHub.
 
+
+
+
+
+\## Session 2 — June 24 2026
+
+
+
+\### Goal
+
+\- Wire MPU-6050 to Blue Pill
+
+\- Read raw accelerometer and gyroscope data over I2C
+
+\- Send data to PC over UART to verify readings
+
+### Thoughts
+
+\- Application of communication protocols.
+
