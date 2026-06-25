@@ -48,3 +48,27 @@
 
 \- Application of communication protocols.
 
+
+
+\## Session 2 Update — June 24 2026
+
+
+
+\### Blocker
+
+\- Blue Pill arrived unassembled — pin headers not soldered in (first time using Blue Pill did not realize I needed to solder).
+
+\- PB6 hole filled with solder blob, needs clearing
+
+\- Ordered soldering iron kit and solder wick.
+
+
+
+\### Next Session Plan
+
+\- Solder pin headers onto Blue Pill
+
+\- Clear PB6 hole with solder wick
+
+\- Wire MPU-6050 and begin I2C driver
+
